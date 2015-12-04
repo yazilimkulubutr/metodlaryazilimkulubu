@@ -1,0 +1,6 @@
+c:\users\kkadi\documents\visual studio 2015\Projects\metodlaryazilimkulubu\metodlaryazilimkulubu\bin\Debug\metodlaryazilimkulubu.exe.config
+c:\users\kkadi\documents\visual studio 2015\Projects\metodlaryazilimkulubu\metodlaryazilimkulubu\bin\Debug\metodlaryazilimkulubu.exe
+c:\users\kkadi\documents\visual studio 2015\Projects\metodlaryazilimkulubu\metodlaryazilimkulubu\bin\Debug\metodlaryazilimkulubu.pdb
+c:\users\kkadi\documents\visual studio 2015\Projects\metodlaryazilimkulubu\metodlaryazilimkulubu\obj\Debug\metodlaryazilimkulubu.csprojResolveAssemblyReference.cache
+c:\users\kkadi\documents\visual studio 2015\Projects\metodlaryazilimkulubu\metodlaryazilimkulubu\obj\Debug\metodlaryazilimkulubu.exe
+c:\users\kkadi\documents\visual studio 2015\Projects\metodlaryazilimkulubu\metodlaryazilimkulubu\obj\Debug\metodlaryazilimkulubu.pdb
